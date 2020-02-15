@@ -1,0 +1,239 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d6962d8e-272e-4ae8-8bef-f8ed57aebbb8" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DaemonCodeAnalyzer">
+    <disable_hints>
+      <file url="file://$PROJECT_DIR$/temp1.py" />
+    </disable_hints>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/temp1.py" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="ProjectId" id="1XNTx6aRwrVUqT6aHUXeqErEnce" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="Python" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="PyConsoleOptionsProvider">
+    <option name="myIpythonEnabled" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\jinhu\Google Drive\Github\nCov" />
+      <recent name="C:\Google Drive\Github\nCov" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.qxratio">
+    <configuration name="dxy" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="nCov" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/dxy.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="nCoV1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="nCov" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/nCoV1.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="qianxi" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="nCov" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/qianxi.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="qxratio" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="nCov" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/qxratio.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="script" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="nCov" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../../machine learning/nCov/DXY-2019-nCoV-Data-master-Feb5/DXY-2019-nCoV-Data-master" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../../machine learning/nCov/DXY-2019-nCoV-Data-master-Feb5/DXY-2019-nCoV-Data-master/script.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.qxratio" />
+        <item itemvalue="Python.dxy" />
+        <item itemvalue="Python.qianxi" />
+        <item itemvalue="Python.qianxi" />
+        <item itemvalue="Python.nCoV1" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d6962d8e-272e-4ae8-8bef-f8ed57aebbb8" name="Default Changelist" comment="" />
+      <created>1580885795271</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1580885795271</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="80" y="242" key="#Inspections" timestamp="1581481727050">
+      <screen x="0" y="0" width="1920" height="1160" />
+    </state>
+    <state x="80" y="242" key="#Inspections/0.0.1920.1160@0.0.1920.1160" timestamp="1581481727050" />
+    <state x="253" y="423" key="#com.intellij.ide.actions.ChooseComponentsToExportDialog" timestamp="1581243068453">
+      <screen x="0" y="0" width="1920" height="1160" />
+    </state>
+    <state x="253" y="423" key="#com.intellij.ide.actions.ChooseComponentsToExportDialog/0.0.1920.1160@0.0.1920.1160" timestamp="1581243068453" />
+    <state x="194" y="320" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1581590814297">
+      <screen x="0" y="0" width="1920" height="1160" />
+    </state>
+    <state x="194" y="320" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1920.1160@0.0.1920.1160" timestamp="1581590814297" />
+    <state x="229" y="337" key="#xdebugger.XInspectDialog" timestamp="1580996882019">
+      <screen x="0" y="0" width="1920" height="1160" />
+    </state>
+    <state x="229" y="337" key="#xdebugger.XInspectDialog/0.0.1920.1160@0.0.1920.1160" timestamp="1580996882019" />
+    <state x="307" y="355" key="FileChooserDialogImpl" timestamp="1581241295859">
+      <screen x="0" y="0" width="1920" height="1160" />
+    </state>
+    <state x="307" y="355" key="FileChooserDialogImpl/0.0.1920.1160@0.0.1920.1160" timestamp="1581241295859" />
+    <state width="1515" height="210" key="GridCell.Tab.0.bottom" timestamp="1581688030565">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1515" height="210" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1581688030565" />
+    <state width="1515" height="210" key="GridCell.Tab.0.center" timestamp="1581688030565">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1515" height="210" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1581688030565" />
+    <state width="1515" height="210" key="GridCell.Tab.0.left" timestamp="1581688030565">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1515" height="210" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1581688030565" />
+    <state width="1515" height="210" key="GridCell.Tab.0.right" timestamp="1581688030565">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1515" height="210" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1581688030565" />
+    <state x="65" y="405" key="SettingsEditor" timestamp="1581588274124">
+      <screen x="0" y="0" width="1920" height="1160" />
+    </state>
+    <state x="52" y="117" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1581246401198" />
+    <state x="65" y="405" key="SettingsEditor/0.0.1920.1160@0.0.1920.1160" timestamp="1581588274124" />
+    <state width="391" height="412" key="XDebugger.FullValuePopup" timestamp="1581690783091">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="391" height="412" key="XDebugger.FullValuePopup/0.0.1536.824@0.0.1536.824" timestamp="1581690783091" />
+    <state width="488" height="580" key="XDebugger.FullValuePopup/0.0.1920.1160@0.0.1920.1160" timestamp="1581593961008" />
+    <state x="8" y="289" key="com.intellij.execution.console.ConsoleHistoryController$MyBrowseAction$1" timestamp="1581240572234">
+      <screen x="0" y="0" width="1920" height="1160" />
+    </state>
+    <state x="8" y="289" key="com.intellij.execution.console.ConsoleHistoryController$MyBrowseAction$1/0.0.1920.1160@0.0.1920.1160" timestamp="1581240572234" />
+    <state x="668" y="409" key="com.intellij.ide.util.TipDialog" timestamp="1580985938209">
+      <screen x="0" y="0" width="1920" height="1160" />
+    </state>
+    <state x="668" y="409" key="com.intellij.ide.util.TipDialog/0.0.1920.1160@0.0.1920.1160" timestamp="1580985938209" />
+    <state x="320" y="262" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1581606274930">
+      <screen x="0" y="0" width="1920" height="1160" />
+    </state>
+    <state x="320" y="262" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1920.1160@0.0.1920.1160" timestamp="1581606274930" />
+    <state x="151" y="259" width="672" height="678" key="search.everywhere.popup" timestamp="1581481731972">
+      <screen x="0" y="0" width="1920" height="1160" />
+    </state>
+    <state x="151" y="259" width="672" height="678" key="search.everywhere.popup/0.0.1920.1160@0.0.1920.1160" timestamp="1581481731972" />
+  </component>
+</project>
